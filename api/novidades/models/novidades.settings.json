@@ -24,17 +24,8 @@
     "date": {
       "type": "date"
     },
-    "cover": {
-      "model": "file",
-      "via": "related",
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
-      "plugin": "upload",
-      "required": false,
-      "pluginOptions": {}
+    "coverlink": {
+      "type": "string"
     }
   }
 }
