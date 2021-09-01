@@ -26,6 +26,9 @@
     },
     "coverlink": {
       "type": "string"
+    },
+    "link": {
+      "type": "string"
     }
   }
 }
